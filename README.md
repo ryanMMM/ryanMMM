@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student at University of Toronto
 -------------------------------------------------
 
-Interested in finding opportunities to learn more about software engineering and collaborating to solve problems
+Interested in learning more about software engineering and collaborating to solve problems
 
 * 🌍  I'm based in Toronto, ON
 * ✉️  You can contact me at [ryan.merheby@mail.utoronto.ca](mailto:ryan.merheby@mail.utoronto.ca)
