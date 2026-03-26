@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software Engineer with 20 months of intern experience across Meta, Veeva Systems, and Careem. Currently finishing my CS degree at the University of Toronto.
+
+Always seeking opportunities to build systems that scale; I've built AI model processing workflows at Meta used by ML engineers 15K+ times daily for Instagram & Ads - as well as data routing and validation systems serving the largest pharma companies @ Veeva and millions of ride-share customers @ Careem.
+
+[ryanmerheby.com](ryanmerheby.com)
+
 <!--
 **ryanMMM/ryanMMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
